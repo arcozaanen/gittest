@@ -12,3 +12,4 @@ class TransactionDT(models.Model):
     class Meta:
         abstract = True
 
+# eigenlijk in de orignele
